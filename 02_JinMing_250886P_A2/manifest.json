@@ -1,0 +1,13 @@
+{ "name": "A2",
+"short_name": "A2PWA",
+"start_url": "index.html",
+"display": "standalone",
+"background_color": "#ffffff",
+"theme_color": "#00FF00",
+"icons": [
+{ "src": "1492617954-yumminkyskyconsmix05_83461",
+"sizes": "64x64",
+"type": "image/ico"
+}
+]
+}
